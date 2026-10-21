@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="115" height="48" viewBox="0 0 115 48" role="img" aria-labelledby="title desc">
-<title id="title">Python</title>
-<desc id="desc">Python technology badge. Original line artwork.</desc>
-<defs></defs>
-<rect x="1" y="1" width="113" height="46" rx="8" fill="#101e2d" stroke="#2b4357"/><g transform="translate(12 11) scale(0.74)" stroke="#b8cf80" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M17 17H5V8C5 0 26 0 26 8V17H17V26H8M17 17H29V26C29 34 8 34 8 26M11 7H12M23 27H24"/></g><text x="48" y="30" fill="#c9d9e9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" >Python</text>
-</svg>

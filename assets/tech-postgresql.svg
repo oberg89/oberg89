@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="149" height="48" viewBox="0 0 149 48" role="img" aria-labelledby="title desc">
-<title id="title">PostgreSQL</title>
-<desc id="desc">PostgreSQL technology badge. Original line artwork.</desc>
-<defs></defs>
-<rect x="1" y="1" width="147" height="46" rx="8" fill="#101e2d" stroke="#2b4357"/><g transform="translate(12 11) scale(0.74)" stroke="#83b9ec" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="17" cy="7" rx="12" ry="5"/><path d="M5 7V25C5 32 29 32 29 25V7M5 16C5 23 29 23 29 16"/></g><text x="48" y="30" fill="#c9d9e9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" >PostgreSQL</text>
-</svg>

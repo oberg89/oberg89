@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="158" height="48" viewBox="0 0 158 48" role="img" aria-labelledby="title desc">
-<title id="title">Spring Boot</title>
-<desc id="desc">Spring Boot technology badge. Original line artwork.</desc>
-<defs></defs>
-<rect x="1" y="1" width="156" height="46" rx="8" fill="#101e2d" stroke="#2b4357"/><g transform="translate(12 11) scale(0.74)" stroke="#87d590" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M5 27C3 11 15 5 29 5C28 20 20 31 5 27ZM5 27L24 10M14 18H24M13 19V12"/></g><text x="48" y="30" fill="#c9d9e9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" >Spring Boot</text>
-</svg>
