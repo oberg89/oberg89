@@ -1,30 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-<title id="title">Stefan Öberg — Java Developer, Backend, Automation, AI</title>
-<desc id="desc">WYSPIR TECH. Building software that solves real problems. A dark Nordic mountain and lake landscape with cyan technical accents.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+<title id="title">Stefan Öberg — Java developer and backend engineer</title>
+<desc id="desc">A dark, cinematic midnight-lake scene, distant Nordic mountains and cool cyan light. Stefan Öberg, Java developer, backend engineering.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081321"/><stop offset=".55" stop-color="#0a192b"/><stop offset="1" stop-color="#102a43"/></linearGradient>
-<radialGradient id="halo"><stop stop-color="#167aa0" stop-opacity=".35"/><stop offset="1" stop-color="#167aa0" stop-opacity="0"/></radialGradient>
-<linearGradient id="lake" x2="0" y2="1"><stop stop-color="#164763" stop-opacity=".45"/><stop offset="1" stop-color="#081522" stop-opacity="0"/></linearGradient>
-<linearGradient id="line"><stop stop-color="#35d6e5" stop-opacity="0"/><stop offset=".6" stop-color="#35d6e5"/><stop offset="1" stop-color="#5688ff" stop-opacity=".4"/></linearGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#89c7ef" stroke-opacity=".045"/></pattern>
-<clipPath id="frame"><rect x="1" y="1" width="1278" height="318" rx="20"/></clipPath>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050c17"/><stop offset=".5" stop-color="#071b30"/><stop offset="1" stop-color="#0b2940"/></linearGradient>
+<radialGradient id="sky" cx=".76" cy=".25" r=".52"><stop stop-color="#19708a" stop-opacity=".49"/><stop offset=".55" stop-color="#12415f" stop-opacity=".18"/><stop offset="1" stop-color="#062033" stop-opacity="0"/></radialGradient>
+<linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#12cfda" stop-opacity="0"/><stop offset=".54" stop-color="#5acadc" stop-opacity=".6"/><stop offset="1" stop-color="#64d5e4" stop-opacity=".04"/></linearGradient>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#12435c"/><stop offset=".42" stop-color="#081e34"/><stop offset="1" stop-color="#050c18"/></linearGradient>
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64edeb"/><stop offset="1" stop-color="#67a8ed"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#8dc6e9" stroke-opacity=".03"/></pattern>
+<clipPath id="mask"><rect x="1" y="1" width="1278" height="388" rx="22"/></clipPath>
 </defs>
-<g clip-path="url(#frame)">
-<rect width="1280" height="320" fill="url(#bg)"/>
-<rect width="1280" height="320" fill="url(#grid)"/>
-<ellipse cx="1040" cy="110" rx="330" ry="210" fill="url(#halo)"/>
-<path d="M735 132C830 22 1015 28 1245 72" stroke="#53cce8" stroke-width="1" opacity=".12" fill="none"/>
-<path d="M789 149C927 45 1090 45 1280 105" stroke="#53cce8" opacity=".09" fill="none"/>
-<circle cx="1067" cy="72" r="22" fill="#81d9f2" fill-opacity=".06" stroke="#65cce1" stroke-opacity=".25"/>
-<circle cx="1067" cy="72" r="3" fill="#74e4f2"/>
-<path d="M636 214L748 119 793 157 891 65 982 163 1035 124 1158 203 1236 155 1300 214Z" fill="#142d43"/>
-<path d="M695 214L793 157 844 185 891 65 933 123 974 177 1035 124 1101 188 1158 203 1236 155 1300 214Z" fill="#10253a"/>
-<path d="M748 119L767 141 748 135 728 143M891 65L917 99 895 92 878 101 861 105M1035 124L1059 147 1035 140 1019 145" fill="#639db5" opacity=".45"/>
-<path d="M636 214L748 119 793 157 891 65 982 163 1035 124 1158 203 1236 155 1300 214" fill="none" stroke="url(#line)" stroke-width="1.4" opacity=".65"/>
-<path d="M630 215H1280V320H630Z" fill="url(#lake)"/>
-<path d="M662 224H1254M768 237H1188M812 250H1234M701 263H1044M884 277H1184" stroke="#4bbfd5" stroke-opacity=".14"/>
-<path d="M950 218L1043 283 1138 218M838 218L891 263 933 218" stroke="#3b819c" stroke-opacity=".14" fill="none"/>
-<path d="M1150 0V28H1190M1210 0V18M1260 118H1240V157M1250 145H1280" stroke="#51cddd" stroke-opacity=".35" fill="none"/>
-<path d="M32 34V24H42M1238 296H1248V286" stroke="#4cd9ea" stroke-opacity=".6" fill="none"/>
-</g><text x="64" y="53" fill="#67d7e8" font-family="Consolas, Menlo, monospace" font-size="13" font-weight="500" letter-spacing="2">WYSPIR TECH  /  DEVELOPER PROFILE</text><text x="60" y="139" fill="#f1f7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-2">Stefan Öberg</text><text x="64" y="184" fill="#b8d8ec" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="450" >Java Developer • Backend • Automation • AI</text><text x="64" y="225" fill="#8faabd" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" >Building software that solves real problems.</text><rect x="64" y="260" width="87" height="25" rx="5" fill="#102c3d" stroke="#245568"/><text x="78" y="277" fill="#75dae4" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="600" >JAVA FIRST</text><text x="169" y="277" fill="#7391a8" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="400" letter-spacing="1">PRACTICAL IDEAS. RELIABLE SYSTEMS.</text><rect x="1" y="1" width="1278" height="318" rx="20" stroke="#284057" fill="none"/>
+<g clip-path="url(#mask)">
+<rect width="1280" height="390" fill="url(#night)"/>
+<rect width="1280" height="390" fill="url(#sky)"/>
+<rect width="1280" height="390" fill="url(#grid)"/>
+<path d="M553 269L660 210 711 231 805 132 878 200 947 116 1069 229 1156 170 1320 265V390H553Z" fill="#102940"/>
+<path d="M646 273L742 207 792 233 868 168 947 223 1050 142 1151 246 1247 186 1320 246V390H646Z" fill="#0b2238"/>
+<path d="M805 132L830 163 809 154 787 170M947 116L970 151 945 140 923 154M1050 142L1070 165 1047 157 1025 168" fill="#80bdcf" opacity=".26"/>
+<path d="M551 274Q826 263 1280 270V390H551Z" fill="url(#water)"/>
+<path d="M550 271Q889 269 1280 271" fill="none" stroke="url(#horizon)" stroke-width="2"/>
+<g fill="none" stroke="#5ed4df" stroke-linecap="round">
+<path d="M703 292H1126M782 306H1172M743 318H1001M894 329H1260M787 350H1167M950 366H1253" stroke-width="1.5" opacity=".16"/>
+<path d="M900 287H1063M1094 312H1224M870 342H982" stroke-width="2.5" opacity=".18"/>
+</g>
+<path d="M655 240L698 208L750 235M1076 246L1161 186L1229 245" fill="none" stroke="#57a4b7" stroke-width="1.5" opacity=".3"/>
+<circle cx="1105" cy="75" r="29" fill="#6ce7ed" opacity=".07"/>
+<circle cx="1105" cy="75" r="29" stroke="#72e5f0" stroke-opacity=".35"/>
+<circle cx="1105" cy="75" r="3" fill="#8ceff1"/>
+<path d="M1075 75H1050M1135 75H1160M1105 45V24M1105 105V125" stroke="#74daea" opacity=".3"/>
+<g fill="#92ecf4"><circle cx="746" cy="59" r="1.8" opacity=".55"/><circle cx="827" cy="81" r="1.4" opacity=".42"/><circle cx="1209" cy="39" r="1.6" opacity=".6"/><circle cx="986" cy="45" r="1.2" opacity=".44"/><circle cx="1253" cy="118" r="1.6" opacity=".42"/></g>
+<path d="M40 41V25H56M1224 348V364H1240" fill="none" stroke="#6ce7e7" opacity=".65" stroke-width="1.6"/>
+<rect x="1" y="1" width="1278" height="388" rx="22" stroke="#27465b" fill="none"/>
+</g>
+<rect x="74" y="65" width="7" height="18" rx="3" fill="#69e6df"/>
+<text x="101" y="80" fill="#7ddedc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">DEVELOPER / SWEDEN</text>
+<text x="69" y="180" fill="#f4fbff" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-3">Stefan Öberg</text>
+<rect x="74" y="204" width="64" height="4" rx="2" fill="url(#cyan)"/>
+<text x="73" y="252" fill="#d2e7ef" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500">Java developer. Backend engineering.</text>
+<text x="75" y="301" fill="#8bb1c4" font-family="Arial, Helvetica, sans-serif" font-size="23">Building thoughtful software, one project at a time.</text>
+<text x="75" y="357" fill="#64d5de" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="600" letter-spacing="2">JAVA  /  SPRING BOOT  /  POSTGRESQL</text>
 </svg>

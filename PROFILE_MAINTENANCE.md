@@ -1,22 +1,17 @@
 # Profile maintenance
 
-This repository is the public GitHub Profile README for `oberg89`. The design uses only GitHub-compatible Markdown/HTML and local SVG files. No build, web server, GitHub Actions or third-party graphics service is required.
+This is the public GitHub profile for `oberg89`, deliberately designed as a **minimal, visual portfolio**.
 
-## Update content
+## Public content policy
 
-- Edit `README.md` and the relevant SVG directly. Keep project descriptions general when source code is private. Never add private repository links, issue content, hostnames, network addresses, credentials or runtime details.
-- SportfiskeDagboken links only to the public `SportfiskeDagboken-showcase` repository. The showcase is a deliberately limited portfolio example, not the production application.
-- WYSPIR TECH links to its public website. Home Assistant Ops and Unraid Ops have deliberately unlinked project cards.
-- The thirteen technology badges use original, consistent line artwork and text labels; they are not official vendor logos.
+- **Only Angler Log** is featured. Other repositories, products, home automation, infrastructure and private projects do not belong in the public README.
+- Keep the introduction short. No artificial GitHub statistics, static follower counters, third-party badges or activity widgets.
+- Link only to the verified public `oberg89/SportfiskeDagboken-showcase`, not the private application repository.
+- The artwork in `assets/banner.svg` and `assets/angler-log.svg` is entirely local SVG.
+- Avoid internal hostnames, network details, credentials, private issue contents, unreleased features or privileged infrastructure information.
 
-## Refresh statistics
+## Updating
 
-`assets/github-stats.svg`, its alternative text and the matching README caption are a static public snapshot dated 2026-10-21. They show 10 public repositories and 4 followers. Verify fresh values with GitHub's public API before changing the numbers; update the date in the SVG, its description and the README together. Do not infer private contributions or publish private repository counts. The public links remain the source for current activity.
+Edit `README.md` and the two SVG assets together. Validate SVG/XML, render at both desktop and mobile widths, check the showcase and LinkedIn links, then submit a PR. Do not merge automatically.
 
-## Verify before publishing
-
-1. Parse every SVG as XML. Keep SVGs self-contained: no JavaScript, foreignObject, external fonts, external images, remote stylesheets or event handlers.
-2. Render the banner, all cards and badges. Check the README at desktop and mobile widths. Images scale down; badges wrap naturally. Markdown headings and descriptive alternative text preserve the meaning when images are unavailable.
-3. Verify relative asset paths and public destination links. LinkedIn can block automated checks with HTTP 999; verify it manually if needed.
-4. Run `git diff --check`. Review changes for confidential information.
-5. Publish through a feature branch and PR. Merging the PR into `main` updates the public profile; there is no deployment step.
+Historic profile artwork is intentionally removed from the current branch, although normal Git history remains intact.

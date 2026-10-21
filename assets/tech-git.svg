@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="90" height="48" viewBox="0 0 90 48" role="img" aria-labelledby="title desc">
-<title id="title">Git</title>
-<desc id="desc">Git technology badge. Original line artwork.</desc>
-<defs></defs>
-<rect x="1" y="1" width="88" height="46" rx="8" fill="#101e2d" stroke="#2b4357"/><g transform="translate(12 11) scale(0.74)" stroke="#ed9b84" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="6" r="4"/><circle cx="25" cy="10" r="4"/><circle cx="9" cy="28" r="4"/><path d="M9 10V24M25 14C25 23 9 15 9 24"/></g><text x="48" y="30" fill="#c9d9e9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" >Git</text>
-</svg>
