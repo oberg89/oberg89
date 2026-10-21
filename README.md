@@ -4,12 +4,8 @@
 
 Java, backend, and a considered approach to software.
 
-## Angler Log
-
-Track. Learn. Catch more.
-
 <p align="center">
-  <img src="assets/angler-log.png" alt="Realistic naturalist illustration of a northern pike, with an elongated olive body, pale markings, a flattened snout and naturally placed fins, on a dark background." width="1280" />
+  <img src="assets/angler-log.svg" alt="Angler Log. Track. Learn. Catch more. A fishing journal." width="1280" />
 </p>
 
 <p align="center">

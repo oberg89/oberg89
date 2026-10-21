@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title description">
+  <title id="title">Angler Log — Track. Learn. Catch more.</title>
+  <desc id="description">A minimal typographic project cover. Ivory and muted sage lettering on charcoal. No illustrations or icons.</desc>
+  <rect x="1" y="1" width="1278" height="378" rx="12" fill="#131c20" stroke="#2a3638"/>
+  <text x="68" y="75" fill="#9bafa4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing="4">FISHING JOURNAL</text>
+  <text x="60" y="201" fill="#eceee7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="112" font-weight="500" letter-spacing="-4">Angler Log</text>
+  <text x="68" y="269" fill="#b7c4bb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="400">Track. Learn. Catch more.</text>
+  <path d="M68 324H1212" fill="none" stroke="#2a3638"/>
+</svg>

@@ -1,11 +1,11 @@
 # Profile maintenance
 
-The rendered profile is intentionally minimal: one typographic hero, one sentence, one Angler Log project image, one public-showcase CTA and a small LinkedIn link.
+The rendered profile is intentionally minimal: one typographic hero, one sentence, one typographic Angler Log project cover, one public-showcase CTA and a small LinkedIn link. No fish artwork, animals or icons.
 
 ## Assets
 
 - `assets/banner.svg`: original, self-contained typography on charcoal. No scripts, fonts fetched over the network, embedded images or animation.
-- `assets/angler-log.png`: original AI-generated naturalist-style northern pike illustration, not a photograph or scientific reference. Keep the full silhouette and natural proportions; do not stretch or replace it with an icon, mascot or geometric fish. No embedded metadata is required.
+- `assets/angler-log.svg`: original typographic project cover. No fish, animals, mascots, icons or decorative illustrations. Keep the project name and short tagline readable on narrow screens.
 
 Only these two visual assets are used. Do not reintroduce counters, badge walls, unrelated projects, dashboards, decorative UI, long biography or multiple project calls to action.
 
