@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="48" viewBox="0 0 115 48" role="img" aria-labelledby="title desc">
+<title id="title">Docker</title>
+<desc id="desc">Docker technology badge. Original line artwork.</desc>
+<defs></defs>
+<rect x="1" y="1" width="113" height="46" rx="8" fill="#101e2d" stroke="#2b4357"/><g transform="translate(12 11) scale(0.74)" stroke="#72bfff" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2 18H29C28 29 9 33 4 24ZM9 12H15V18H9ZM16 12H22V18H16ZM16 5H22V11H16ZM2 12H8V18H2ZM24 15C28 14 30 11 30 9M28 15L33 14"/></g><text x="48" y="30" fill="#c9d9e9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" >Docker</text>
+</svg>

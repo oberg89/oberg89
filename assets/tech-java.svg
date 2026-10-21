@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="48" viewBox="0 0 98 48" role="img" aria-labelledby="title desc">
+<title id="title">Java</title>
+<desc id="desc">Java technology badge. Original line artwork.</desc>
+<defs></defs>
+<rect x="1" y="1" width="96" height="46" rx="8" fill="#101e2d" stroke="#2b4357"/><g transform="translate(12 11) scale(0.74)" stroke="#f3ab6e" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M7 14H25V25C25 29 7 29 7 25ZM25 16H28C33 16 33 24 27 24M11 10C6 6 16 6 12 2M19 10C15 6 25 6 21 2"/></g><text x="48" y="30" fill="#c9d9e9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" >Java</text>
+</svg>
