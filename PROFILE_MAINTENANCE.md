@@ -1,17 +1,17 @@
-# GitHub profile maintenance
+# Profile maintenance
 
-This public profile intentionally presents a compact developer identity with a single featured project: Angler Log.
+This public GitHub README is a native, content-first developer portfolio, not a full-width graphic or a separate website.
 
-## Layout
-- README.md links two self-contained SVG files: `assets/profile-panel.svg` and `assets/angler-feature.svg`.
-- No remote image services, tracking, JavaScript, CSS injection, GitHub Actions, or dynamic counters.
-- The project image links only to the **public** `oberg89/SportfiskeDagboken-showcase`.
-- No fish illustrations, animal motifs or other private projects in the README.
-- GitHub's native profile/sidebar/pinned repository area is separate and cannot be customized via this README.
+## Principles
+- Show a concise developer introduction, core technologies and **Angler Log only**.
+- Do not include other personal or private projects, private repository links, infrastructure details, secrets or internal hostnames.
+- No fish illustrations, large hero graphics, static follower counters, remote images, injected CSS, JavaScript or GitHub Actions.
+- The public Angler Log link points to the intentionally limited `oberg89/SportfiskeDagboken-showcase`. It is not the private production repository.
+- Technology badges in `assets/` are small, self-hosted, original decorative markers with accessible labels; they are not official vendor marks.
+- The native GitHub sidebar and pinned repositories are independent of this README.
 
-## Updating safely
-- Keep both SVG files non-empty, UTF-8 encoded, valid XML and independently renderable.
-- Ensure the images remain legible when rendered at approximately 500 CSS pixels wide; test desktop and mobile widths.
-- Check Markdown links and asset paths on the actual GitHub feature-branch preview.
-- Keep private code, infrastructure details, tokens and private repository URLs out of the README.
-- Deliver changes through a feature branch and PR, without automatic merge.
+## Update and verification
+1. Edit `README.md` and badge assets consistently. Keep fonts/text legible at typical README widths.
+2. Check all 10 SVG images for non-zero size, XML validity, and script-free source.
+3. Preview on narrow and desktop layouts; verify links and asset paths in GitHub after uploading.
+4. Make changes via PR with a reviewable diff. Avoid unwanted automatic deploy and external CI usage.
