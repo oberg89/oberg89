@@ -1,15 +1,17 @@
-# Profile maintenance
+# GitHub profile maintenance
 
-The profile uses GitHub-compatible Markdown and HTML: a centred text header, a brief About Me, a two-column technology table, one Angler Log project, and LinkedIn. No custom CSS, hero images, illustrations, animals, stats, tracking widgets, or external image services.
+This public profile intentionally presents a compact developer identity with a single featured project: Angler Log.
 
-## Badges
+## Layout
+- README.md links two self-contained SVG files: `assets/profile-panel.svg` and `assets/angler-feature.svg`.
+- No remote image services, tracking, JavaScript, CSS injection, GitHub Actions, or dynamic counters.
+- The project image links only to the **public** `oberg89/SportfiskeDagboken-showcase`.
+- No fish illustrations, animal motifs or other private projects in the README.
+- GitHub's native profile/sidebar/pinned repository area is separate and cannot be customized via this README.
 
-The eleven small SVG badges in assets/ share one navy/cyan style. They are local, self-contained text labels with no scripts, embedded images, fonts, or network dependencies. Reuse badges rather than adding duplicate technologies. Keep table rows narrow and check at 320px.
-
-## Public boundary
-
-Only link the public SportfiskeDagboken-showcase repository and the existing LinkedIn profile. Do not publish private repository links, implementation details, credentials, or internal addresses. Project technology labels must be supported by the public showcase.
-
-## Review
-
-Parse every SVG as XML, reject unsafe content, check nonempty files and relative paths, and inspect actual GitHub rendering at desktop and mobile widths. Run git diff --check. Deliver changes on a feature branch through a PR without automatic merge. The public profile updates when the PR is merged into main.
+## Updating safely
+- Keep both SVG files non-empty, UTF-8 encoded, valid XML and independently renderable.
+- Ensure the images remain legible when rendered at approximately 500 CSS pixels wide; test desktop and mobile widths.
+- Check Markdown links and asset paths on the actual GitHub feature-branch preview.
+- Keep private code, infrastructure details, tokens and private repository URLs out of the README.
+- Deliver changes through a feature branch and PR, without automatic merge.
