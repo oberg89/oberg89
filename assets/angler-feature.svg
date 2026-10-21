@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="355" viewBox="0 0 940 355" role="img" aria-labelledby="title desc">
+<title id="title">Angler Log — Track. Learn. Catch more.</title>
+<desc id="desc">Premium editorial project feature for Angler Log, featuring large lettering, a carefully aligned graphic system and no animals or fish illustrations.</desc>
+<defs><linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b202d"/><stop offset=".5" stop-color="#0b3540"/><stop offset="1" stop-color="#102534"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a3ffe0"/><stop offset="1" stop-color="#4bbfe1"/></linearGradient>
+<radialGradient id="light" cx=".8" cy=".42" r=".7"><stop stop-color="#1a8a91" stop-opacity=".25"/><stop offset="1" stop-color="#1a8a91" stop-opacity="0"/></radialGradient>
+<clipPath id="frame"><rect x="1" y="1" width="938" height="353" rx="19"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="940" height="355" fill="url(#back)"/><rect width="940" height="355" fill="url(#light)"/>
+<rect x="18" y="17" width="6" height="321" rx="3" fill="url(#accent)"/>
+<path d="M49 77H888M49 316H888" stroke="#76bcbf" stroke-opacity=".30"/>
+<path d="M564 98V295" stroke="#83d4cf" stroke-opacity=".25"/>
+<path d="M850 19H897V65M41 300V339H91" stroke="#8ff9de" stroke-opacity=".44" stroke-width="2" fill="none"/>
+<text x="51" y="58" fill="#8be9d5" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">03 / FEATURED PROJECT</text>
+<text x="43" y="161" fill="#f5faf8" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="750" letter-spacing="-3">Angler Log.</text>
+<text x="51" y="212" fill="#9bead8" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="650">Track. Learn. Catch more.</text>
+<text x="51" y="265" fill="#bfd8df" font-family="Arial, Helvetica, sans-serif" font-size="23">A private journal built for anglers.</text>
+<text x="52" y="327" fill="#78afb4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">JAVA  /  SPRING BOOT  /  POSTGRESQL</text>
+<text x="598" y="115" fill="#8de4d5" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2">THE IDEA</text>
+<text x="598" y="164" fill="#e5f4f2" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="650">Record.</text>
+<text x="598" y="213" fill="#e5f4f2" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="650">Understand.</text>
+<text x="598" y="262" fill="#e5f4f2" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="650">Improve.</text>
+<rect x="1" y="1" width="938" height="353" rx="19" stroke="#3a6671" fill="none"/>
+</g></svg>
